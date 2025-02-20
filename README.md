@@ -5,7 +5,10 @@ This is a python script for online blast. All the calculate operation is online.
 git clone https://github.com/jinhuili-lab/pyBlastWeb.git
 ```
 ## Usage
-
+![aa](https://raw.githubusercontent.com/jinhuili-lab/personal_image_bed/master/img2025/202502201650195.png)
 ```
 python pyBlastWeb.py
 ```
+
+## Demo
+Click [here](https://vercel.com/jinhuili-labs-projects/blastn2dotplot)
