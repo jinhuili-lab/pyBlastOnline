@@ -11,4 +11,4 @@ python pyBlastWeb.py
 ```
 
 ## Demo
-Click [here](https://vercel.com/jinhuili-labs-projects/blastn2dotplot)
+Click [here](https://huggingface.co/spaces/jinhuili-lab/pyBlastWeb)
